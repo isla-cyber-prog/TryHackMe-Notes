@@ -6,10 +6,11 @@ This repository contains notes, summaries, and key learning points from TryHackM
 
 - Linux Fundamentals
 - Networking Fundamentals
+- TryHackMe Activity Log
 - Windows Fundamentals
 - Cyber Security Basics
-- Web Security
-- Pre Security
+- Web Security Notes
+- Pre Security Basics
 
 ## Purpose
 
